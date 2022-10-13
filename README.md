@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ about me
 
-hi there, my name is [Angelique (she/her/hers)](https://www.linkedin.com/in/angeliqueclara/), an enthusiastic third year student in the University of British Columbia studying **Statistics + Data Science**. currently an **Undergraduate Teaching Assistant** for Data Science with 700+ students enrolled. i am mostly interested in data mining, data visualization, statistical analysis, deep learning, image recognition, and machine learning.
+hi there, my name is [Angelique (she/her/hers)](https://www.linkedin.com/in/angeliqueclara/), an enthusiastic third year student in the University of British Columbia studying **Statistics + Data Science**. currently an **Undergraduate Teaching Assistant** for Data Science with 700+ students enrolled. I am mostly interested in data mining, data visualization, statistical analysis, deep learning, image recognition, and machine learning.
 
 - if you have any feedbacks/ questions; i would love to chat! do reach out to my [email](angieclr@student.ubc.ca) - angieclr@student.ubc.ca 💬
 - currently looking for a **Co-op / internship** for 8 months starting from January 2023.
