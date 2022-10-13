@@ -21,5 +21,3 @@ and etc.
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=angieclra)](https://github.com/angieclra)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angieclra&layout=compact)](https://github.com/angieclra)
