@@ -20,4 +20,4 @@ and etc.
 </br>
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=angieclra)](https://github.com/angieclra)
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=angieclra)](https://github.com/angieclra) -->
