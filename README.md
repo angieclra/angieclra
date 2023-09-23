@@ -12,7 +12,7 @@ Hello there, my name is [Angelique Clara Hanzell (she/her/hers)](https://www.lin
 
 ## 👩🏻‍💻 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react, redux, gcp,idea,py,git,java,r,mysql,matlab,vscode,github,nodejs,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,gcp,idea,py,git,java,r,mysql,matlab,vscode,github,nodejs,css&theme=dark)](https://skillicons.dev)
 </br>
 
 and etc.
