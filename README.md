@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ About me
 
-Hello there, my name is [Angelique Clara Hanzell (she/her/hers)](https://www.linkedin.com/in/angeliqueclara/), an enthusiastic fourth year student in the University of British Columbia studying **Statistics + Data Science**. currently an **Undergraduate Teaching Assistant** for Data Science with 700+ students enrolled. I am mostly interested in data mining, data visualization, statistical analysis, deep learning, image recognition, and machine learning.
+Hello there, my name is Angelique Clara Hanzell (she/her/hers), an enthusiastic fourth year student in the University of British Columbia studying **Statistics + Data Science**. currently an **Undergraduate Teaching Assistant** for Data Science with 700+ students enrolled. I am mostly interested in data mining, data visualization, statistical analysis, deep learning, image recognition, and machine learning.
 
 - If you have any feedbacks/ questions; I would love to chat! do reach out to my [email](angieclr@student.ubc.ca) - angieclr@student.ubc.ca 💬
 - Currently looking for a **full-time position** starting from May 2025.
